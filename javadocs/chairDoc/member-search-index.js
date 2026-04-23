@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Chair","l":"Chair()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Chair","l":"Chair(int, String)","url":"%3Cinit%3E(int,java.lang.String)"},{"p":"<Unnamed>","c":"Chair","l":"Chair(int)","url":"%3Cinit%3E(int)"},{"p":"<Unnamed>","c":"Chair","l":"getLegs()"},{"p":"<Unnamed>","c":"Chair","l":"getMaterial()"}]
